@@ -6,3 +6,6 @@ This is a search engine that reads a corpus from a XML file and returns the most
 calculated based on the tf-idf weighting scheme.
 
 For instructions to run this repository and documentation, see `documentation.pdf`. 
+
+## References
+the `stemming` package was provided by the assignment. 
